@@ -1,4 +1,4 @@
-alpine:latest
+FROM alpine:latest
 
 LABEL name=huhan
 
